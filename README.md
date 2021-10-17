@@ -20,3 +20,5 @@ Hi, All. ✏️Welcome to my portfolio guide.
 5. [DataCamp Guided Project](https://github.com/HockChong/Data-Camp-Guided-Project)
  - Where I explore and learn the data analysis skills by leverage the DataCamp platforms. 
  - Total 5 projects : 1 SQL project, 4 python projects
+
+6. ✈️To be continue .....✈️ 
