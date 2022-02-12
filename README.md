@@ -21,4 +21,5 @@ Hi, All. ✏️Welcome to my portfolio guide.
  - Where I explore and learn the data analysis skills by leverage the DataCamp platforms. 
  - Total 5 projects : 1 SQL project, 4 python projects
 
-6. ✈️To be continue .....✈️ 
+6. [Maven Roaster Dashboard](https://public.tableau.com/app/profile/hockchong/viz/MavenRoaster_16402633133730/MavenRoaster)
+- Designed a dyanmic dashbaord to track KPI (_profit, sale, unit, returns_) performance across markets, analyze cateogory profitablility, and idenity high-value customers.
