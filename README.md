@@ -22,4 +22,4 @@ Hi, All. ✏️Welcome to my portfolio guide.
  - Total 5 projects : 1 SQL project, 4 python projects
 
 6. [Maven Roaster Dashboard](https://public.tableau.com/app/profile/hockchong/viz/MavenRoaster_16402633133730/MavenRoaster)
-- Designed a dyanmic dashbaord to track KPI (_profit, sale, unit, returns_) performance across markets, analyze cateogory profitablility, and idenity high-value customers.
+- Designed a dynamic dashboard to track KPI (profit, sale, unit, returns) performance across markets, analyze category profitability, and identify high-value customers.
