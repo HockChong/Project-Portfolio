@@ -5,7 +5,7 @@ Hi, All. ✏️Welcome to my portfolio guide.
 
 | Project Name | Skills | Description | 
 |---|---|---|
-|Maven Fuzzy Factory |📚MySQL|Analyze and optimize marketing channels, measure,and test website conversion performance, and use data to understand the impact of new product launches.|
+|[Maven Fuzzy Factory](https://github.com/HockChong/Maven-Fuzzy-Factory)|📚MySQL|Analyze and optimize marketing channels, measure,and test website conversion performance, and use data to understand the impact of new product launches.|
 |[Maven Roaster Dashboard](https://public.tableau.com/app/profile/hockchong/viz/MavenRoaster_16402633133730/MavenRoaster) |📚Tableau |Designed a dynamic dashboard to track KPI (profit, sale, unit, returns) performance across markets, analyze category profitability, and identify high-value customers|
 |[Investigate TMVB Movie Dataset](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree/tree/main/Project%20%232%20TMDb%20Movie%20Analysis) |📚Pandas, Matplotlib, Seaborn| Use Python to clean data, explore and analyze the most popular movie genres and high revenue movies insights.|
 |[Bike-share Analysis](https://github.com/HockChong/Google-Data-Analytics-Capstone-Project-Cyclistic-bike-share-analysis) |📚R, Tableau |Analyze casual rider's usage behavior in different time zones, help marketing teams discover insight that can be used for designing a marketing campaign to convert rider    users to members.Create a visualization tableau story to present findings to the marketing team. |
