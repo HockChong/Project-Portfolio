@@ -1,6 +1,4 @@
-# 🌱Portfolio Guide
-
-Hi, All. ✏️Welcome to my portfolio!
+# Hi, All. ✏️Welcome to my 🌱portfolio!
 
 # Data Engineering
 | Project Link | Project Description |
