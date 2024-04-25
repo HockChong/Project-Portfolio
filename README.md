@@ -1,9 +1,18 @@
 # 🌱Portfolio Guide
 
-Hi, All. ✏️Welcome to my portfolio guide. 
+Hi, All. ✏️Welcome to my portfolio!
+
+# Data Engineering
+| Project Link | Project Description |
+|----|-----|
+|[Sparkify's S3 to Redshift ETL Pipeline](https://github.com/HockChong/Sparkify-S3-to-Redshift-ETL-Pipeline)| Developing an ETL pipeline to extract JSON logs in S3, staged the data in Redshift staging tables, and transformed it into a star schema analytical database hosted on Redshift for analytics on song play events, users, songs, artists, and time metrics|
+|[HR Database Design](https://github.com/HockChong/Human-Resources-Database-Design)|Designed and implemented an ETL pipeline to extract employee data from Excel, transform it into a normalized 3NF, and load it into a newly created relational database.Developed SQL scripts to create the database schema with proper data integrity constraints.|
+|[Data Modeling with Cassandra](https://github.com/HockChong/Data-Modeling-with-Cassandra/blob/main/ETL.ipynb)|Developed a Python ETL pipeline and applied data modeling with Cassandra to address queries.|
 
 
-| Project Name | Skills | Description | 
+
+# Data Analytics
+| Project Name | Skills & Tools | Description | 
 |---|---|---|
 |[Maven Fuzzy Factory](https://github.com/HockChong/Maven-Fuzzy-Factory)|📚MySQL|Analyze and optimize marketing channels, measure,and test website conversion performance, and use data to understand the impact of new product launches.|
 |[Maven Roaster Dashboard](https://public.tableau.com/app/profile/hockchong/viz/MavenRoaster_16402633133730/MavenRoaster) |📚Tableau |Designed a dynamic dashboard to track KPI (profit, sale, unit, returns) performance across markets, analyze category profitability, and identify high-value customers|
