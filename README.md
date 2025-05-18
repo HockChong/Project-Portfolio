@@ -3,8 +3,8 @@
 # Data Engineering
 | Project Link | Project Description |
 |----|-----|
-|[Sparkify's S3 to Redshift ETL Pipeline](https://github.com/HockChong/Sparkify-S3-to-Redshift-ETL-Pipeline)| Developing an ETL pipeline to extract JSON logs in S3, staged the data in Redshift staging tables, and transformed it into a star schema analytical database hosted on Redshift for analytics on song play events, users, songs, artists, and time metrics|
-|[HR Database Design](https://github.com/HockChong/Human-Resources-Database-Design)|Designed and implemented an ETL pipeline to extract employee data from Excel, transform it into a normalized 3NF, and load it into a newly created relational database.Developed SQL scripts to create the database schema with proper data integrity constraints.|
+|[Sparkify's S3 to Redshift ETL Pipeline](https://github.com/HockChong/Sparkify-S3-to-Redshift-ETL-Pipeline)| Built an end-to-end ETL pipeline on AWS that extracted JSON logs from S3, staged them in Redshift, and transformed them into a star-schema analytical database for song-play events, users, artists, tracks, and time metrics.
+|[HR Database Design](https://github.com/HockChong/Human-Resources-Database-Design)|Extracted employee data from Excel, transformed it into a fully normalized 3NF model, and loaded it into a newly created PostgreSQL database via an end-to-end ETL pipeline.Developed and executed SQL DDL scripts to create tables, define keys, and enforce integrity constraints, ensuring high data quality and referential integrity.|
 |[Data Modeling with Cassandra](https://github.com/HockChong/Data-Modeling-with-Cassandra/blob/main/ETL.ipynb)|Developed a Python ETL pipeline and applied data modeling with Cassandra to address queries.|
 
 
