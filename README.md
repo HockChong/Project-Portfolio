@@ -7,7 +7,9 @@
 |[HR Database Design](https://github.com/HockChong/Human-Resources-Database-Design)|Extracted employee data from Excel, transformed it into a fully normalized 3NF model, and loaded it into a newly created PostgreSQL database via an end-to-end ETL pipeline.Developed and executed SQL DDL scripts to create tables, define keys, and enforce integrity constraints, ensuring high data quality and referential integrity.|
 |[Data Modeling with Cassandra](https://github.com/HockChong/Data-Modeling-with-Cassandra/blob/main/ETL.ipynb)|Developed a Python ETL pipeline and applied data modeling with Cassandra to address queries.|
 
-
+# Data Scientist
+| Project Name | Skills & Tools | Description | 
+|---|---|---|
 
 # Data Analytics
 | Project Name | Skills & Tools | Description | 
