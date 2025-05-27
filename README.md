@@ -3,7 +3,7 @@
 # Data Engineering
 | Project | Project Description |
 |----|-----|
-|Order Data Cleaning for Demand Forecasting at Voltmart | Transformed raw order logs into a clean, model-ready dataset by filtering out overnight orders, standardizing product/category text, removing discontinued SKUs, and deriving date, time-of-day, and purchase-state features.|
+| [Order Data Cleaning for Demand Forecasting at Voltmart](https://github.com/HockChong/Project-Portfolio/tree/main/Order%20Data%20Cleaning%20for%20Demand%20Forecasting%20at%20Voltmart) | Transformed raw order logs into a clean, model-ready dataset by filtering out overnight orders, standardizing product/category text, removing discontinued SKUs, and deriving date, time-of-day, and purchase-state features.|
 |[Sparkify's S3 to Redshift ETL Pipeline](https://github.com/HockChong/Sparkify-S3-to-Redshift-ETL-Pipeline)| Built an end-to-end ETL pipeline on AWS that extracted JSON logs from S3, staged them in Redshift, and transformed them into a star-schema analytical database for song-play events, users, artists, tracks, and time metrics.
 |[HR Database Design](https://github.com/HockChong/Human-Resources-Database-Design)|Extracted employee data from Excel, transformed it into a fully normalized 3NF model, and loaded it into a newly created PostgreSQL database via an end-to-end ETL pipeline.Developed and executed SQL DDL scripts to create tables, define keys, and enforce integrity constraints, ensuring high data quality and referential integrity.|
 |[Data Modeling with Cassandra](https://github.com/HockChong/Data-Modeling-with-Cassandra/blob/main/ETL.ipynb)|Developed a Python ETL pipeline and applied data modeling with Cassandra to address queries.|
@@ -11,8 +11,8 @@
 # Data Scientist
 | Project | Description | 
 |---|---|
-| A/B Test of Online Travel Agency Search Ranking System | Analyzed user interaction data using statistical tests, including t-test, z-test, and chi-square test to assess differences in booking rates, Click-through Rate, and conversion metrics. Interpreted p-values to determine the statistical significance of observed outcomes, leading to data-driven recommendations.|
-| DVD Rental Duration Prediction | Built and optimized regression models (Linear, Ridge, Lasso, Random Forest, XGBoost, LightGBM) using GridSearchCV, achieving test-set MSE < 3. Improved inventory planning by enhancing rental duration forecasting accuracy |
+| [A/B Test of Online Travel Agency Search Ranking System](https://github.com/HockChong/Project-Portfolio/tree/main/AB%20Test%20of%20Online%20Travel%20Agency%20Search%20Ranking%20System) | Analyzed user interaction data using statistical tests, including t-test, z-test, and chi-square test to assess differences in booking rates, Click-through Rate, and conversion metrics. Interpreted p-values to determine the statistical significance of observed outcomes, leading to data-driven recommendations.|
+| [DVD Rental Duration Prediction](https://github.com/HockChong/Project-Portfolio/tree/main/Predict%20Movie%20Duration) | Built and optimized regression models (Linear, Ridge, Lasso, Random Forest, XGBoost, LightGBM) using GridSearchCV, achieving test-set MSE < 3. Improved inventory planning by enhancing rental duration forecasting accuracy |
 
 
 # Data Analytics
